@@ -44,8 +44,8 @@ Berikut adalah teknologi, bahasa pemrograman, dan alat yang biasa saya gunakan u
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Revalina-aryt&show_icons=true&theme=visual_studio_dark&locale=en" alt="Revalina's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revalina-aryt&layout=compact&theme=visual_studio_dark&locale=en" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Revalina-aryt&show_icons=true&theme=visual_studio_dark&locale=en" alt="Revalina's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Revalina-aryt&layout=compact&theme=visual_studio_dark&locale=en" alt="Top Langs" width="48%" />
 </p>
 
 ---
