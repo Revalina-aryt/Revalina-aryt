@@ -1,19 +1,19 @@
-# Halo Semua, Saya Revalina! 👋
+# Hi there, I'm Revalina! 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Revalina-aryt&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-### 👩‍💻 Tentang Saya
-- 🎓 **Status/Edukasi:** Self-taught Developer & Robotics Enthusiast.
-- 🚀 **Fokus Saat Ini:** Aktif mengembangkan aplikasi web (*Fullstack*), game development, serta eksperimen IoT/Robotik.
-- 💡 **Misi:** Suka mengeksplorasi integrasi antara perangkat keras (robotik) dengan sistem perangkat lunak yang interaktif.
-- 🌱 **Sedang Belajar:** Python, pengolahan data untuk robotik, C++ untuk Arduino, C# untuk Unity, dan basis data.
+### 👩‍💻 About Me
+- 🎓 **Education:** Vocational High School Graduate, majoring in **Software Engineering and Game Development** | Robotics Enthusiast.
+- 🚀 **Current Focus:** Actively developing full-stack web applications, game development, and experimenting with IoT/Robotics.
+- 💡 **Mission:** Passionate about exploring the integration between hardware (robotics) and interactive software systems.
+- 🌱 **Learning:** Python, data processing for robotics, C++ for Arduino, C# for Unity, and databases.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-Berikut adalah teknologi, bahasa pemrograman, dan alat yang biasa saya gunakan untuk membangun proyek:
+Here are the technologies, programming languages, and tools I commonly use for my projects:
 
 #### 🌐 Web & Backend Development
 <p align="left">
@@ -50,11 +50,11 @@ Berikut adalah teknologi, bahasa pemrograman, dan alat yang biasa saya gunakan u
 
 ---
 
-### 📫 Mari Terhubung!
-- 💼 **LinkedIn:** [Tautan LinkedIn Kamu](https://linkedin.com)
-- 📸 **Instagram:** @sunuprylin
-- 📧 **Email:** revalinaaryanti68@gmail.com
+### 📫 Connect with Me!
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
+- 📸 **Instagram:** [@sunuprylin](https://instagram.com/sunuprylin)
+- 📧 **Email:** [revalinaaryanti68@gmail.com](mailto:revalinaaryanti68@gmail.com)
 
 <p align="center">
-  <i>"Koding hari ini untuk masa depan yang lebih baik."</i> ✨
+  <i>"Coding today for a better tomorrow."</i> ✨
 </p>
