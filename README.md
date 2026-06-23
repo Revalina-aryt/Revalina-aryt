@@ -6,8 +6,8 @@
 
 ### 👩‍💻 About Me
 - 🎓 **Education:** Vocational High School Graduate, majoring in **Software Engineering and Game Development** | Robotics Enthusiast.
-- 🚀 **Current Focus:** Actively developing full-stack web applications, game development, and experimenting with IoT/Robotics.
-- 💡 **Mission:** Passionate about exploring the integration between hardware (robotics) and interactive software systems.
+- 🚀 **Current Focus:** Actively developing full-stack web applications while actively learning game development and exploring IoT/Robotics.
+- 💡 **Mission:** Passionate about learning how to integrate software systems with interactive games and hardware (robotics).
 - 🌱 **Learning:** Python, data processing for robotics, C++ for Arduino, C# for Unity, and databases.
 
 ---
