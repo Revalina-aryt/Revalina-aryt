@@ -51,7 +51,7 @@ Here are the technologies, programming languages, and tools I commonly use for m
 ---
 
 ### 📫 Connect with Me!
-- 💼 **LinkedIn:** Revalina Aryanti (www.linkedin.com/in/revalina-aryanti-9932a4382)
+- 💼 **LinkedIn:** [Revalina Aryanti](www.linkedin.com/in/revalina-aryanti-9932a4382)
 - 📸 **Instagram:** [@sunuprylin](https://instagram.com/sunuprylin)
 - 📧 **Email:** [revalinaaryanti68@gmail.com](mailto:revalinaaryanti68@gmail.com)
 
